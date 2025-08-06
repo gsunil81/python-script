@@ -1,0 +1,7 @@
+     1287       1    1287      16308  cons1     197609 12:51:38 /usr/bin/bash
+     1242       1    1242      15644  cons0     197609 12:50:40 /usr/bin/bash
+     1386    1383    1383      13868  cons1     197609 12:53:15 /usr/bin/bash
+     1383    1287    1383      12084  cons1     197609 12:53:15 /usr/bin/bash
+     1387    1386    1383       2148  cons1     197609 12:53:15 /usr/bin/ps
+     1388    1386    1383        148  cons1     197609 12:53:15 /usr/bin/bash
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
