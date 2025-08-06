@@ -1,3 +1,0 @@
-System initialized successfully.
-Temp threshold exceeded at 14:32.
-Restarting permanent control module.

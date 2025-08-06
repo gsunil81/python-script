@@ -1,5 +1,0 @@
-Summary Report
-=================
-inputfile1.txt: 7 lines, 42 words
-inputfile2.txt: 3 lines, 21 words
-inputfile3.txt: 3 lines, 12 words

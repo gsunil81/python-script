@@ -1,3 +1,0 @@
-The permanent server is located in zone 3
-We need to replace the permanent credentials
-Temp files should be archived weekly
