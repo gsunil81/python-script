@@ -1,0 +1,5 @@
+# Project
+The temp server is located in zone 3
+We need to replace the temp credentials
+# Reminder: update documentation
+Temp files should be archived weekly
